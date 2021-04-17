@@ -20,6 +20,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 #### 项目功能
+```
 1.登录功能（根据手机号和密码）
 2.个人中心（登录后能看到个人信息以及个人歌单）
 3.退出登录功能
@@ -34,3 +35,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 12.歌词
 13.音乐评论
 14.播放列表(包含当前播放音乐所在列表的所有音乐)
+```
