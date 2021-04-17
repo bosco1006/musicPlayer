@@ -39,6 +39,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 #### 展示
 
-<img align="right" alt="png" src="https://github.com/bosco1006/musicPlayer/tree/main/recommendImg/00.png" />
-![image](https://github.com/bosco1006/musicPlayer/tree/main/recommendImg/00.png)
-![Image text](https://github.com/bosco1006/musicPlayer/tree/main/recommendImg/00.png)
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/00.png" />
+
