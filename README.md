@@ -40,4 +40,17 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 #### 展示
 
 <img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/00.png" />
-
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/02.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/02-1.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/03.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/04.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/05.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/06.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/07.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/08.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/09.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/10.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/11.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/12.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/13.png" />
+<img  src="https://github.com/bosco1006/musicPlayer/blob/main/recommendImg/14.png" />
