@@ -36,3 +36,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 13.音乐评论
 14.播放列表(包含当前播放音乐所在列表的所有音乐)
 ```
+
+#### 展示
+
+<img align="right" alt="png" src="https://github.com/bosco1006/musicPlayer/tree/main/recommendImg/00.png" />
+![image](https://github.com/bosco1006/musicPlayer/tree/main/recommendImg/00.png)
+![Image text](https://github.com/bosco1006/musicPlayer/tree/main/recommendImg/00.png)
